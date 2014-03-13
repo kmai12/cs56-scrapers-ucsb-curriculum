@@ -36,4 +36,7 @@ If this is the first time running it, it will automatically download the course 
 
 NOTE: Be aware that sometimes copying and pasting input will cause an error depending on where you copied the text from.
 
-![](http://imgur.com/SZbSO5C.png)
+![](http://i.imgur.com/Wn5lM0a.png)
+![](http://i.imgur.com/rxFTOlg.png)
+
+To exit the program, press enter without any input text.
